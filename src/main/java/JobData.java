@@ -105,7 +105,6 @@ public class JobData {
                 }
         }
 
-        public void
     // TODO - implement this method
         return jobs;
     }
